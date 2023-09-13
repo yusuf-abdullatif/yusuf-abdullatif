@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-A bachelor student at University College Ghent, majoring in Computer Science. 😊
+<p><em>A bachelor student at <a href="https://www.iku.edu.tr/">Istanbul Kultur University</a>, majoring in Computer Engineering. 😊</br>
+</em></p>
 
+
+```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [C, C++ HTML, CSS, Python, CSharp,],
+   code: [C, C++, HTML, CSS, Python, CSharp],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -19,6 +21,14 @@ const aboutMe = {
       databases: ["SQL", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["Third year student"],
+   currentOccupation: ["Third year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
+
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusuf-abdullatif&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
