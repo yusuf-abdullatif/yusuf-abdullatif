@@ -18,7 +18,7 @@ const aboutMe = {
          csharp: [""],
          misc: [""]
       },
-      databases: ["SQL", "mySQL", "SQLServer"],
+      databases: ["SQL"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Third year student, open for job opportunities"],
