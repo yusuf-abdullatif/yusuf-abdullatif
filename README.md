@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><em>A bachelor student at <a href="https://www.iku.edu.tr/">Istanbul Kultur University</a>, majoring in Computer Engineering. 😊</br>
+<p><em>A bachelor student at <a href="https://www.iku.edu.tr/">Istanbul Kultur University</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
 
