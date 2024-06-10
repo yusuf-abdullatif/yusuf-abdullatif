@@ -1,28 +1,30 @@
 ### Hi there 👋
 
-<p><em>A bachelor student at <a href="https://www.iku.edu.tr/">Istanbul Kultur University</a>, majoring in Computer Science. 😊</br>
+<p><em>I'm Yusuf Abdullatif, a third-year undergraduate Computer Engineering student at Istanbul Kultur University. I'm passionate about developing innovative software solutions and have hands-on experience in various technologies.</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
-   code: [C, C++, HTML, CSS, Python, CSharp],
+   code: ["C", "C++", "Python", "C#", "HTML", "CSS", "JavaScript", "SwiftUI"],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: [""]
+         css: ["Bootstrap"]
       },
       backEnd: {
-         java: [""],
-         js: [""],
-         csharp: [""],
-         misc: [""]
+         java: ["Spring Boot"],
+         js: ["Node.js", "Express.js"],
+         python: ["Flask"],
+         csharp: [".NET"],
+         misc: ["Docker", "Kubernetes"]
       },
-      databases: ["SQL"],
-      mobile: ["Android", "IOS"]
+      databases: ["SQL", "SQLite"],
+      mobile: ["Android", "iOS (SwiftUI)"]
    },
-   currentOccupation: ["Third year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   dataAnalysisAndML: ["OpenCV", "NumPy", "Matplotlib", "Pandas", "YOLOv8"],
+   currentOccupation: ["Third-year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon."
 };
 
 ```
