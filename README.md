@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><em>I'm Yusuf Abdullatif, a third-year undergraduate Computer Engineering student at Istanbul Kultur University. I'm passionate about developing innovative software solutions and have hands-on experience in various technologies.</br>
+<p><em>I'm Yusuf Abdullatif, a Fourth year undergraduate Computer Engineering student at Istanbul Kultur University. I'm passionate about developing innovative software solutions and have hands-on experience in various technologies.</br>
 </em></p>
 
 
@@ -23,7 +23,7 @@ const aboutMe = {
       mobile: ["Android", "iOS (SwiftUI)"]
    },
    dataAnalysisAndML: ["OpenCV", "NumPy", "Matplotlib", "Pandas", "YOLOv8"],
-   currentOccupation: ["Third-year student, open for job opportunities"],
+   currentOccupation: ["Fourth-year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon."
 };
 
